@@ -1,6 +1,6 @@
 # Video Uploader and Sharing Application
 
-This is a simple web application that allows users to upload video files and share the generated links with others. It consists of two main components: a React.js frontend and a Node.js backend.
+This is a simple web application that allows users to upload video files and share the generated links with others. It is built using: a React.js frontend and a Node.js backend.
 
 <img width="960" alt="uploader1" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/9f4ce5f7-2580-4732-9d44-a45eac46870c">
 <img width="960" alt="uploader2" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/e62e74c2-f248-41f8-b68b-e2ccf3ac14f6">
