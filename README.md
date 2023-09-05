@@ -65,8 +65,8 @@ This is a simple web application that allows users to upload video files and sha
 You can deploy the application to platforms like Heroku, Netlify, Render, Firebase or Vercel for hosting both the frontend and backend. Make sure to update the backend URL in the frontend to the deployed backend's URL.
 
 ## Screenshots
-<img width="960" alt="uploader2" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/a6edcdba-8acd-4190-8cb5-ae29a36ad2bc">
 <img width="960" alt="uploader1" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/ec38d7fc-937c-4af8-9d46-800de029baca">
+<img width="960" alt="uploader2" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/a6edcdba-8acd-4190-8cb5-ae29a36ad2bc">
 
 ## Acknowledgments
 
