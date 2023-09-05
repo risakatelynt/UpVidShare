@@ -2,6 +2,9 @@
 
 This is a simple web application that allows users to upload video files and share the generated links with others. It consists of two main components: a React.js frontend and a Node.js backend.
 
+<img width="960" alt="uploader1" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/9f4ce5f7-2580-4732-9d44-a45eac46870c">
+<img width="960" alt="uploader2" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/e62e74c2-f248-41f8-b68b-e2ccf3ac14f6">
+
 ## Features
 
 - **File Upload:** Users can upload video files (supported formats) either by dragging and dropping them or by selecting from their device.
@@ -65,11 +68,6 @@ This is a simple web application that allows users to upload video files and sha
 You can deploy the application to platforms like Heroku, Netlify, Render, Firebase or Vercel for hosting both the frontend and backend. Make sure to update the backend URL in the frontend to the deployed backend's URL.
 
 Deployment url: `https://video-upload-share-9fef1.web.app/`
-
-## Screenshots
-
-<img width="960" alt="uploader1" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/9f4ce5f7-2580-4732-9d44-a45eac46870c">
-<img width="960" alt="uploader2" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/e62e74c2-f248-41f8-b68b-e2ccf3ac14f6">
 
 ## Acknowledgments
 
