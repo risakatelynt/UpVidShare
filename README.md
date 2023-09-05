@@ -67,8 +67,9 @@ You can deploy the application to platforms like Heroku, Netlify, Render, Fireba
 Deployment url: `https://video-upload-share-9fef1.web.app/`
 
 ## Screenshots
-<img width="960" alt="uploader1" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/ec38d7fc-937c-4af8-9d46-800de029baca">
-<img width="960" alt="uploader2" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/a6edcdba-8acd-4190-8cb5-ae29a36ad2bc">
+
+<img width="960" alt="uploader1" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/9f4ce5f7-2580-4732-9d44-a45eac46870c">
+<img width="960" alt="uploader2" src="https://github.com/risakatelynt/UpVidShare/assets/124533180/e62e74c2-f248-41f8-b68b-e2ccf3ac14f6">
 
 ## Acknowledgments
 
