@@ -25,7 +25,7 @@ h5 {
   padding: 0;
   font-size: 32px;
   font-weight: 700;
-  color: #ED1E79;
+  color: #EA8D8D;
 }
 
 h3 {
@@ -113,7 +113,7 @@ h3 {
 }
 
 .MuiLinearProgress-bar {
-  background-color: #ED1E79 !important;
+  background-color: #EA8D8D !important;
 }
 
 .button-wrap {
@@ -137,10 +137,10 @@ h3 {
   width: 300%;
   height: 100%;
   background: #a64bf4;
-  background: -o-linear-gradient(left, #ED1E79, #662D8C, #ED1E79, #662D8C);
-  background: -moz-linear-gradient(left, #ED1E79, #662D8C, #ED1E79, #662D8C);
-  background: linear-gradient(left, #ED1E79, #662D8C, #ED1E79, #662D8C);
-  background: -webkit-linear-gradient(left, #ED1E79, #662D8C, #ED1E79, #662D8C);
+  background: -o-linear-gradient(left, #EA8D8D, #A890FE, #EA8D8D, #A890FE);
+  background: -moz-linear-gradient(left, #EA8D8D, #A890FE, #EA8D8D, #A890FE);
+  background: linear-gradient(left, #EA8D8D, #A890FE, #EA8D8D, #A890FE);
+  background: -webkit-linear-gradient(left, #EA8D8D, #A890FE, #EA8D8D, #A890FE);
   top: 0;
   left: -100%;
   -webkit-transition: all .4s;

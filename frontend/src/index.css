@@ -6,11 +6,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   height: 100vh;
-  background: #ED1E79;
-  background: -o-linear-gradient(45deg, #ED1E79 16%, #662D8C 51%);
-  background: -moz-linear-gradient(45deg, #ED1E79 16%, #662D8C 51%);
-  background: linear-gradient(45deg, #ED1E79 16%, #662D8C 51%);
-  background: -webkit-linear-gradient(45deg, #ED1E79 16%, #662D8C 51%);
+  background: #EA8D8D;
+  background: -o-linear-gradient(45deg, #EA8D8D 16%, #A890FE 51%);
+  background: -moz-linear-gradient(45deg, #EA8D8D 16%, #A890FE 51%);
+  background: linear-gradient(45deg, #EA8D8D 16%, #A890FE 51%);
+  background: -webkit-linear-gradient(45deg, #EA8D8D 16%, #A890FE 51%);
   overflow: auto;
 }
 
